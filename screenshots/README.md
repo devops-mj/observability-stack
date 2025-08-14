@@ -1,0 +1,1 @@
+Screenshots of current monitoring implementation
