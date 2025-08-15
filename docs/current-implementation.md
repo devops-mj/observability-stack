@@ -77,9 +77,9 @@ This documents my first hands-on monitoring stack implementation using Docker co
 
 The following screenshots demonstrate the functional monitoring implementation:
 
-- ![Node Exporter Dashboard](../screenshots/GRFNA-1.png)
-- ![Dashboard Overview](../screenshots/GRFNA-2.png)
-- ![Data Sources Configuration](../screenshots/GRFNA-3.png)
+- ![Node Exporter Dashboard](../screenshots/GRFNA1.png)
+- ![Dashboard Overview](../screenshots/GRFNA2.png)
+- ![Data Sources Configuration](../screenshots/GRFNA3.png)
 
 ## Current Capabilities
 
